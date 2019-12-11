@@ -1,12 +1,17 @@
-<channels>
-<channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white]Gustavo TV - Primeiros testes[/COLOR][COLOR orangered]|||[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/12/items/bemvindo_20191211_0214/bemvindo.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601506.us.archive.org/12/items/bemvindo_20191211_0214/fanart.jpg</fanart>
+https://raw.githubusercontent.com/gustavodeker/gustavotv/master/categorias-tv
+ 
+<canais>
+<canal>
+<name> [COLOR orangered] ||| [/ COLOR] [COLOR white] Gustavo TV - Primeiros testes [/ COLOR] [COLOR orangered] ||| [/ COLOR] </name>
+<thumbnail> https://ia601506.us.archive.org/12/items/bemvindo_20191211_0214/bemvindo.png </thumbnail>
+<externallink> https://raw.githubusercontent.com/gustavodeker/gustavotv/master/categorias-tv </externallink>
+<fanart> https://ia601506.us.archive.org/12/items/bemvindo_20191211_0214/fanart.jpg </fanart>
 <info>
  
  
-[COLOR deeppink]|[/COLOR] - Primeiro teste do servidor 1.0 - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink] | [/ COLOR] - Primeiro teste do servidor 1.0 - [COLOR deeppink] | [/ COLOR] </info>
 </channel>
 </channels>
+ 
+ 
+ 
