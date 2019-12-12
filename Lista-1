@@ -11,14 +11,15 @@ by Gustavo Deker
 >>>>>>>>>>>>>>>>>>
  
 #EXTM3U
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4pROafv.png" group-title="FILMES E SERIES",Cine+
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,REDE VIDA
+https://www.redevida.com.br/f127e3f6-8d11-41eb-aacd-8fda518f05a5
  
 #EXTINF:-1,REDE TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
  
 #EXTINF:-1,SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+
+
  
 #################################################################################
