@@ -1,24 +1,7 @@
-<item>
-<title>[COLOR lightgreen]*****TV Aberta*****[/COLOR]</title>
-<thumbnail>https://ia601505.us.archive.org/33/items/tv_20191211/tv.png</thumbnail>
-<link>https://</link>
-<info>
- 
-by Gustavo Deker
-[COLOR deeppink]|[/COLOR] - Canais de TV Aberta - [COLOR deeppink]|[/COLOR]</info>
-</item>
- 
->>>>>>>>>>>>>>>>>>
- 
 #EXTM3U
-#EXTINF:-1,REDE VIDA
-https://www.redevida.com.br/f127e3f6-8d11-41eb-aacd-8fda518f05a5
- 
+
 #EXTINF:-1,REDE TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
- 
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 
 
  
